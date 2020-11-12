@@ -9,7 +9,7 @@ Simple python key-logger to listen to the keyboard key strokes
 * Python 2.X or 3.X
 
 ## How to run the program 
-* Click on `python_keylogger.pyw` and the keystrokes will be saved in a text file named `logs`
+* Click on `python_keylogger.pyw` and the keystrokes will be saved in the folder named `logs`
 
 ## Note
 
