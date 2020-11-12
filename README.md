@@ -4,6 +4,7 @@
 # Python-Keylogger
 Simple python key-logger to listen to the keyboard key strokes
 
+
 ## Requirements
 * Python 2.X or 3.X
 
@@ -27,7 +28,7 @@ Simple python key-logger to listen to the keyboard key strokes
 ## Acknowledgments
 * Base code created by the help of [moses-palmer](https://github.com/moses-palmer/pynput) 
 
-
+see [here](https://pynput.readthedocs.io/en/latest/) for full documentation.
 
 
 
