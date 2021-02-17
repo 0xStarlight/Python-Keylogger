@@ -3,6 +3,7 @@
 ![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)
 # Python-Keylogger
 Simple python key-logger to listen to the keyboard key strokes
+
 ![Python-Keylogger](logger.png)
 
 ## Requirements
